@@ -1,1 +1,0 @@
-import{b7 as t,o as r,as as a,at as o}from"./index-BGGUROfO.js";const c={__name:"index",setup(s){return t().replace("/calllist"),(n,e)=>(r(),a("div",null,e[0]||(e[0]=[o("h1",null,"loading...",-1)])))}};export{c as default};
